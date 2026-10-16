@@ -1,0 +1,6 @@
+latitude,longitude,generationtime_ms,utc_offset_seconds,timezone,timezone_abbreviation,elevation,current_units,current
+19.999998,73.8,0.064849853515625,0,GMT,GMT,584.0,iso8601,2026-09-13T17:00
+19.999998,73.8,0.064849853515625,0,GMT,GMT,584.0,seconds,900
+19.999998,73.8,0.064849853515625,0,GMT,GMT,584.0,°C,22.3
+19.999998,73.8,0.064849853515625,0,GMT,GMT,584.0,%,96
+19.999998,73.8,0.064849853515625,0,GMT,GMT,584.0,km/h,12.7
