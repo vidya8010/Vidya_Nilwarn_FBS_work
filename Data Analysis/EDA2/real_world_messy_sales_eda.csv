@@ -1,0 +1,813 @@
+Order_ID,Order_Date,Customer_Age,City,Category,Quantity,Unit_Price,Discount,Payment_Method,Sales_Channel,Customer_Rating,Returned
+ORD10001,01/01/2024,,Pune ,,2,389.5,,COD,,0,No
+ORD10002,02/01/2024,46.0,Bangalore,Electronics,1,,0.3,CreditCard,Website,5,No
+ORD10003,03/01/2024,32.0,Pune,Electronics,2,319.72,0.3,Cash,Mobile App,2,NO
+ORD10004,04/01/2024,60.0,Hyderabad,Grocery,1,869.19,0.1,Credit Card,website,4.5,No
+ORD10005,05/01/2024,25.0,Delhi,Electronics,3,,10%,Debit Card,website,3,yes
+ORD10006,06/01/2024,38.0,mumbai,electronics,2,229.94,,upi,App,2,No
+ORD10007,07/01/2024,56.0,Pune,,,488.45,0.2,COD,Store,4.5,No
+ORD10008,08/01/2024,36.0,Pune,Clothng,3,635.14,0.1,CreditCard,Store,5,No
+ORD10009,09/01/2024,40.0,Delhi,,4,581.68,10%,COD,Store,1,No
+ORD10010,10/01/2024,28.0,mumbai,electronics,1,972.46,,upi,website,0,NO
+ORD10011,11/01/2024,28.0,Hyderabad,electronics,5,192.24,,upi,App,0,No
+ORD10012,12/01/2024,41.0,Mumbai,Grocery,10,284.92,0.1,,Website,2,No
+ORD10013,13/01/2024,53.0,Chennai,Grocery,2,746.85,0.2,Credit Card,,5,No
+ORD10014,14/01/2024,57.0,Hyderabad,Electronics,3,307.53,10%,COD,Mobile App,0,No
+ORD10015,15/01/2024,41.0,Mumbai,Clothing,4,576.11,,upi,Website,0,No
+ORD10016,16/01/2024,20.0,Bangalore,,1,102.22,,Cash,website,4,NO
+ORD10017,17/01/2024,39.0,N/A,,2,2879.48,10%,Cash,,3,No
+ORD10018,18/01/2024,19.0,Pune ,Clothing,2,413.51,0,COD,,2,No
+ORD10019,19/01/2024,41.0,Pune ,Grocery,1,1070.7,0.1,CreditCard,,1,No
+ORD10020,20/01/2024,61.0,Chennai,Electronics,2,395.84,0.1,upi,Store,0,No
+ORD10021,21/01/2024,47.0,mumbai,Clothing,1,645.2,0.15,,Mobile App,4,NO
+ORD10022,22/01/2024,55.0,Delhi,Electronics,1,1299.52,0.2,Credit Card,website,5,
+ORD10023,23/01/2024,19.0,mumbai,Electronics,1,120000.0,0.05,Credit Card,website,0,No
+ORD10024,24/01/2024,38.0,Delhi,Electronics,,431.43,0,CreditCard,,,Yes
+ORD10025,25/01/2024,50.0,mumbai,Beauty,3,451.28,10%,,website,3,Yes
+ORD10026,26/01/2024,29.0,N/A,electronics,,946.07,10%,Credit Card,Mobile App,1,No
+ORD10027,27/01/2024,39.0,Bangalore,Electronics,2,2245.33,10%,,Mobile App,5,NO
+ORD10028,28/01/2024,61.0,Bangalore,Beauty,2,558.35,0,UPI,App,5,No
+ORD10029,29/01/2024,42.0,Mumbai,Grocery,2,1758.28,,COD,App,2,No
+ORD10030,30/01/2024,44.0,Bangalore,Clothing,2,-10.0,10%,Credit Card,Website,0,Yes
+ORD10031,31/01/2024,59.0,Bangalore,electronics,1,914.86,10%,Cash,Mobile App,2,NO
+ORD10032,01/02/2024,,Hyderabad,Clothng,3,1008.03,0.2,upi,Mobile App,1,No
+ORD10033,02/02/2024,33.0,Hyderabad,Clothing,1,377.48,0.3,,Mobile App,,No
+ORD10034,03/02/2024,32.0,Mumbai,electronics,3,303.2,0.3,,App,0,No
+ORD10035,04/02/2024,200.0,Chennai,Clothng,3,1037.43,0.15,Debit Card,,4.5,NO
+ORD10036,2024-02-05,61.0,Hyderabad,Clothing,1,,0.15,CreditCard,,0,No
+ORD10037,06/02/2024,20.0,Chennai,electronics,1,275.52,10%,Debit Card,website,,No
+ORD10038,07/02/2024,54.0,Pune,Clothing,4,315.9,0.2,Credit Card,,4.5,No
+ORD10039,08/02/2024,24.0,Hyderabad,Clothing,2,347.88,10%,Debit Card,Store,5,No
+ORD10040,09/02/2024,38.0,N/A,Clothng,1,859.89,0.15,Debit Card,App,2,No
+ORD10041,10/02/2024,26.0,Mumbai,Clothing,,688.68,0,UPI,Mobile App,3,
+ORD10042,11/02/2024,56.0,Pune,Clothing,1,784.6,0,,,0,No
+ORD10043,12/02/2024,,N/A,Clothng,3,648.0,,Cash,App,3,Yes
+ORD10044,13/02/2024,21.0,N/A,Grocery,,334.96,0.05,CreditCard,,0,Yes
+ORD10045,14/02/2024,42.0,N/A,Electronics,1,775.2,0.3,Cash,Website,5,No
+ORD10046,15/02/2024,31.0,Chennai,,1,1062.73,0.2,UPI,Mobile App,2,NO
+ORD10047,16/02/2024,26.0,mumbai,Home,1,720.49,0.1,UPI,Website,1,Yes
+ORD10048,17/02/2024,43.0,Pune,Beauty,2,660.02,0.3,Debit Card,Mobile App,1,No
+ORD10049,18/02/2024,19.0,Delhi,Home,1,299.29,0.1,COD,App,1,No
+ORD10050,19/02/2024,,Pune,Home,3,565.48,0.05,,website,0,Yes
+ORD10051,20/02/2024,,mumbai,electronics,1,289.12,0.05,upi,,0,No
+ORD10052,21/02/2024,64.0,Pune,Electronics,2,485.11,10%,,,3,No
+ORD10053,22/02/2024,24.0,Bangalore,electronics,,169.67,0.15,upi,Store,2,No
+ORD10054,23/02/2024,61.0,Delhi,Electronics,4,170.52,0.05,Debit Card,Website,,No
+ORD10055,24/02/2024,25.0,mumbai,Clothng,3,435.21,0.05,upi,,0,No
+ORD10056,25/02/2024,64.0,Chennai,Clothng,2,344.99,0.1,UPI,App,2,No
+ORD10057,26/02/2024,52.0,Pune ,,3,528.17,0.15,Cash,website,3,
+ORD10058,27/02/2024,31.0,mumbai,Electronics,2,451.42,0.05,upi,App,0,No
+ORD10059,28/02/2024,34.0,Mumbai,Clothing,2,502.51,0.3,,Website,1,No
+ORD10060,29/02/2024,53.0,mumbai,Grocery,1,731.86,,CreditCard,Store,1,Yes
+ORD10061,01/03/2024,57.0,Bangalore,,5,364.63,0.05,Debit Card,,5,Yes
+ORD10062,02/03/2024,21.0,Pune ,,2,427.25,,COD,App,4.5,Yes
+ORD10063,03/03/2024,19.0,Bangalore,Clothing,1,1268.72,0.15,Debit Card,Mobile App,4,No
+ORD10064,04/03/2024,23.0,Pune ,Grocery,2,493.74,10%,Credit Card,website,,No
+ORD10065,05/03/2024,59.0,Mumbai,electronics,2,438.57,0.2,Debit Card,App,4.5,NO
+ORD10066,06/03/2024,21.0,Chennai,Grocery,4,519.9,0.15,UPI,website,0,No
+ORD10067,07/03/2024,46.0,Bangalore,electronics,4,443.68,0.1,Cash,,2,No
+ORD10068,08/03/2024,35.0,Bangalore,Clothng,4,310.68,0.2,Cash,Mobile App,0,No
+ORD10069,09/03/2024,43.0,N/A,Home,1,257.57,0.3,CreditCard,Store,2,Yes
+ORD10070,10/03/2024,61.0,Pune ,Clothng,2,300.0,0,upi,Store,2,No
+ORD10071,11/03/2024,51.0,Hyderabad,Clothng,2,869.05,,UPI,Mobile App,4.5,No
+ORD10072,12/03/2024,,Pune ,Home,1,327.2,,Credit Card,website,4,yes
+ORD10073,13/03/2024,53.0,N/A,Grocery,1,445.55,,UPI,,5,
+ORD10074,14/03/2024,31.0,Pune,,4,777.03,0.15,Debit Card,App,4.5,No
+ORD10075,15/03/2024,48.0,Pune ,Grocery,1,411.19,,UPI,Mobile App,4,No
+ORD10076,16/03/2024,,Chennai,electronics,3,743.74,10%,UPI,Website,1,NO
+ORD10077,17/03/2024,25.0,N/A,Clothing,1,181.0,,CreditCard,website,1,yes
+ORD10078,18/03/2024,31.0,Pune,electronics,1,452.08,0.1,Credit Card,Store,2,No
+ORD10079,19/03/2024,40.0,Delhi,Clothing,1,518.68,0.3,Debit Card,Mobile App,3,NO
+ORD10080,20/03/2024,57.0,N/A,Clothng,,500.22,,COD,Store,0,Yes
+ORD10081,21/03/2024,38.0,Delhi,Home,4,168.28,,CreditCard,website,0,NO
+ORD10082,22/03/2024,33.0,Bangalore,Clothng,-1,1077.1,0.2,COD,Store,2,Yes
+ORD10083,23/03/2024,62.0,N/A,Electronics,2,282.72,0.3,CreditCard,Mobile App,3,No
+ORD10084,24/03/2024,35.0,Mumbai,Grocery,1,612.64,,Cash,website,,NO
+ORD10085,25/03/2024,64.0,Delhi,Clothing,3,495.31,0.15,,Website,4,No
+ORD10086,26/03/2024,41.0,Chennai,electronics,2,946.16,0.05,CreditCard,Mobile App,,No
+ORD10087,27/03/2024,43.0,Mumbai,Home,5,2042.37,10%,upi,App,,No
+ORD10088,28/03/2024,42.0,mumbai,Clothing,1,212.99,0.15,UPI,,1,NO
+ORD10089,29/03/2024,,mumbai,electronics,2,323.18,0,Cash,Mobile App,,NO
+ORD10090,30/03/2024,58.0,Pune,Grocery,1,557.19,0.15,Credit Card,website,0,No
+ORD10091,31/03/2024,46.0,Bangalore,Clothng,2,240.21,0.2,COD,,4.5,No
+ORD10092,01/04/2024,32.0,N/A,Grocery,4,819.27,0.2,,Mobile App,3,NO
+ORD10093,02/04/2024,62.0,Hyderabad,Beauty,2,852.52,,,Website,4,No
+ORD10094,03/04/2024,18.0,Chennai,Electronics,2,99999.0,0.15,CreditCard,Website,1,No
+ORD10095,04/04/2024,42.0,Delhi,Beauty,2,574.66,0.2,UPI,App,,No
+ORD10096,05/04/2024,24.0,Mumbai,Home,2,1200.28,0.05,Credit Card,Store,4.5,No
+ORD10097,06/04/2024,26.0,mumbai,Clothing,4,232.49,0.3,upi,,3,Yes
+ORD10098,07/04/2024,41.0,Chennai,Home,5,,0.15,Credit Card,website,2,Yes
+ORD10099,08/04/2024,18.0,Hyderabad,Clothng,-1,304.84,10%,UPI,website,2,Yes
+ORD10100,09/04/2024,61.0,N/A,electronics,4,878.7,0.05,upi,Store,2,NO
+ORD10101,10/04/2024,25.0,Pune,Grocery,2,149.65,,Credit Card,Website,0,No
+ORD10102,11/04/2024,41.0,Hyderabad,Beauty,3,483.84,0.3,upi,Website,4,No
+ORD10103,12/04/2024,28.0,Chennai,,2,612.72,10%,CreditCard,Mobile App,2,No
+ORD10104,13/04/2024,34.0,Hyderabad,Beauty,1,266.17,,CreditCard,App,0,No
+ORD10105,14/04/2024,25.0,Chennai,Clothng,5,327.99,10%,UPI,,5,No
+ORD10106,15/04/2024,52.0,Chennai,Beauty,1,497.7,,UPI,App,0,yes
+ORD10107,16/04/2024,52.0,Pune ,Clothng,5,916.73,10%,upi,App,1,No
+ORD10108,17/04/2024,50.0,Delhi,,2,251.8,0.3,Debit Card,Mobile App,0,NO
+ORD10109,18/04/2024,22.0,mumbai,Home,3,282.03,0.05,Cash,App,4,No
+ORD10110,19/04/2024,59.0,Pune ,Grocery,3,1024.16,10%,,Store,4.5,No
+ORD10111,20/04/2024,56.0,N/A,Clothing,5,412.64,10%,Credit Card,Mobile App,,No
+ORD10112,21/04/2024,58.0,Pune ,electronics,3,297.26,0.1,Credit Card,Store,0,NO
+ORD10113,22/04/2024,45.0,Bangalore,Clothing,3,791.27,0.15,Debit Card,Mobile App,2,yes
+ORD10114,23/04/2024,24.0,Bangalore,Home,1,358.77,0.3,Debit Card,App,1,Yes
+ORD10115,24/04/2024,26.0,mumbai,electronics,2,960.86,,Debit Card,Store,3,No
+ORD10116,25/04/2024,25.0,Hyderabad,Beauty,1,320.08,0.3,COD,Store,2,No
+ORD10117,26/04/2024,29.0,Delhi,,4,444.19,0.2,COD,Store,1,No
+ORD10118,27/04/2024,51.0,mumbai,,2,910.72,,upi,Mobile App,5,No
+ORD10119,28/04/2024,50.0,Chennai,Electronics,3,425.36,0.3,COD,website,,NO
+ORD10120,29/04/2024,40.0,Mumbai,Home,1,805.48,0.05,CreditCard,App,3,NO
+ORD10121,30/04/2024,41.0,Delhi,Home,1,472.2,,CreditCard,Store,5,No
+ORD10122,01/05/2024,54.0,Delhi,Grocery,4,1786.65,,UPI,,4.5,NO
+ORD10123,2024-05-02,52.0,Chennai,Clothing,1,1366.09,0.3,,website,1,Yes
+ORD10124,03/05/2024,61.0,Chennai,Home,1,207.83,,upi,,5,Yes
+ORD10125,04/05/2024,57.0,Pune,Home,1,691.91,0.1,,App,,No
+ORD10126,05/05/2024,39.0,mumbai,Beauty,-1,289.84,0.15,Credit Card,App,,Yes
+ORD10127,06/05/2024,44.0,Chennai,Beauty,4,558.07,,Cash,Store,4.5,NO
+ORD10128,07/05/2024,52.0,Bangalore,electronics,2,515.14,0.15,UPI,Store,,Yes
+ORD10129,08/05/2024,18.0,N/A,Clothng,2,,0.3,Credit Card,Mobile App,1,No
+ORD10130,09/05/2024,52.0,Mumbai,Clothng,2,980.45,10%,Credit Card,website,1,Yes
+ORD10131,10/05/2024,54.0,mumbai,Electronics,4,562.36,0,upi,website,,No
+ORD10132,11/05/2024,64.0,Bangalore,Clothng,3,409.51,0,Debit Card,Store,5,Yes
+ORD10133,12/05/2024,31.0,Hyderabad,Grocery,1,370.64,10%,Debit Card,App,1,No
+ORD10134,13/05/2024,20.0,Chennai,Electronics,1,539.61,10%,,Store,2,No
+ORD10135,14/05/2024,18.0,Chennai,electronics,1,642.36,10%,UPI,App,,NO
+ORD10136,15/05/2024,22.0,Delhi,Beauty,3,454.3,0.05,Debit Card,App,1,NO
+ORD10137,16/05/2024,43.0,Bangalore,Clothng,4,78.17,0,Credit Card,Store,4,Yes
+ORD10138,17/05/2024,31.0,Delhi,Clothing,1,498.19,10%,Debit Card,Website,4.5,NO
+ORD10139,18/05/2024,56.0,Pune,Beauty,1,193.07,0.05,COD,website,,Yes
+ORD10140,19/05/2024,44.0,Delhi,,1,430.03,0.2,Debit Card,,1,No
+ORD10141,20/05/2024,26.0,Pune,Grocery,,197.76,,Credit Card,App,4,Yes
+ORD10142,21/05/2024,32.0,Pune,Beauty,2,196.23,0.05,,App,1,No
+ORD10143,22/05/2024,32.0,Chennai,Grocery,4,1099.74,0,upi,Website,1,No
+ORD10144,23/05/2024,43.0,Hyderabad,Grocery,3,400.19,0.3,UPI,,5,yes
+ORD10145,24/05/2024,59.0,Delhi,Grocery,2,380.76,0.2,Cash,Mobile App,2,No
+ORD10146,25/05/2024,30.0,Bangalore,electronics,1,674.28,0,Debit Card,Website,,No
+ORD10147,26/05/2024,49.0,Pune,Grocery,1,387.27,,CreditCard,,4.5,No
+ORD10148,27/05/2024,56.0,Chennai,Grocery,3,1934.25,0.05,CreditCard,Website,,No
+ORD10149,28/05/2024,49.0,Mumbai,,4,412.62,0.1,,App,2,No
+ORD10150,29/05/2024,21.0,mumbai,Clothing,3,624.74,0.15,Credit Card,website,3,No
+ORD10151,30/05/2024,47.0,Hyderabad,Electronics,3,926.22,,Cash,Website,5,No
+ORD10152,31/05/2024,54.0,Pune ,Home,1,1396.14,0,Cash,Mobile App,5,No
+ORD10153,01/06/2024,40.0,Mumbai,,,304.2,10%,COD,Store,2,No
+ORD10154,02/06/2024,56.0,mumbai,Electronics,4,375.52,0.05,Cash,,0,NO
+ORD10155,03/06/2024,62.0,Mumbai,Grocery,2,1128.32,10%,CreditCard,Website,5,Yes
+ORD10156,04/06/2024,32.0,Delhi,Clothing,,834.26,10%,upi,Website,,No
+ORD10157,2024-06-05,60.0,Pune,Beauty,3,991.15,10%,Credit Card,Mobile App,2,No
+ORD10158,06/06/2024,46.0,Hyderabad,Clothing,3,202.42,10%,Credit Card,website,5,NO
+ORD10159,07/06/2024,53.0,N/A,,4,1347.76,10%,Debit Card,Website,1,No
+ORD10160,08/06/2024,30.0,Pune,Grocery,4,300.39,0.2,Debit Card,Website,2,No
+ORD10161,09/06/2024,49.0,N/A,Clothing,3,558.35,0,Debit Card,website,2,NO
+ORD10162,10/06/2024,24.0,mumbai,Clothng,1,447.49,,CreditCard,Mobile App,,No
+ORD10163,11/06/2024,39.0,Chennai,Clothing,2,278.38,0,CreditCard,,4,No
+ORD10164,12/06/2024,45.0,Pune ,Grocery,10,196.73,,,,5,No
+ORD10165,13/06/2024,19.0,Bangalore,electronics,1,158.62,0.15,CreditCard,Website,5,No
+ORD10166,14/06/2024,59.0,Pune,Clothng,2,532.38,0.05,CreditCard,website,2,No
+ORD10167,15/06/2024,62.0,Hyderabad,Clothing,2,182.83,0.1,CreditCard,Website,1,No
+ORD10168,16/06/2024,,Mumbai,Home,2,235.81,0.2,CreditCard,Store,1,No
+ORD10169,17/06/2024,45.0,Hyderabad,Home,3,427.64,0.05,upi,,4.5,No
+ORD10170,18/06/2024,45.0,mumbai,Clothing,-1,88.66,0.2,CreditCard,App,1,No
+ORD10171,19/06/2024,61.0,N/A,electronics,1,817.57,,,Store,5,No
+ORD10172,20/06/2024,61.0,Mumbai,Beauty,1,102.88,0,Cash,Website,0,No
+ORD10173,21/06/2024,37.0,Bangalore,Grocery,1,468.58,10%,Cash,Mobile App,4,NO
+ORD10174,22/06/2024,47.0,Bangalore,Home,5,497.58,0.15,COD,,2,No
+ORD10175,23/06/2024,28.0,Pune,Beauty,3,699.06,0.15,upi,App,3,NO
+ORD10176,24/06/2024,45.0,mumbai,Clothing,2,479.58,0.3,Debit Card,Store,4,No
+ORD10177,25/06/2024,42.0,Chennai,,4,1829.21,0.1,UPI,,,No
+ORD10178,26/06/2024,56.0,mumbai,Beauty,5,567.14,0.15,CreditCard,website,,No
+ORD10179,27/06/2024,50.0,N/A,Clothng,5,977.35,10%,COD,Mobile App,0,Yes
+ORD10180,28/06/2024,18.0,Hyderabad,Electronics,10,307.89,0,UPI,Store,3,No
+ORD10181,29/06/2024,44.0,Bangalore,Home,1,532.98,0.1,,website,4,Yes
+ORD10182,30/06/2024,30.0,Hyderabad,Clothing,4,1347.38,,Cash,Website,1,NO
+ORD10183,01/07/2024,58.0,Hyderabad,,2,422.21,0.05,COD,website,5,No
+ORD10184,02/07/2024,20.0,Hyderabad,Grocery,5,558.33,,,Store,0,No
+ORD10185,03/07/2024,56.0,Bangalore,,4,932.21,10%,COD,Store,3,Yes
+ORD10186,04/07/2024,23.0,Delhi,electronics,4,304.16,10%,Credit Card,Website,0,NO
+ORD10187,05/07/2024,25.0,N/A,Clothng,3,120.9,0.15,,website,4,No
+ORD10188,06/07/2024,44.0,N/A,Clothing,1,581.8,0.1,Cash,website,5,Yes
+ORD10189,07/07/2024,26.0,Mumbai,Grocery,3,936.95,0,Cash,Website,0,No
+ORD10190,08/07/2024,54.0,mumbai,electronics,,204.7,,upi,website,3,No
+ORD10191,09/07/2024,50.0,mumbai,electronics,10,761.77,0.3,COD,,2,yes
+ORD10192,10/07/2024,59.0,Pune ,Clothing,1,765.12,,CreditCard,Website,4,No
+ORD10193,11/07/2024,61.0,mumbai,Clothng,1,112.42,0.2,Cash,Mobile App,2,No
+ORD10194,12/07/2024,41.0,Bangalore,Beauty,1,268.11,0.2,COD,Store,1,yes
+ORD10195,13/07/2024,32.0,Chennai,Beauty,4,380.97,0,upi,Mobile App,2,No
+ORD10196,14/07/2024,49.0,Pune,electronics,4,438.45,0,CreditCard,,2,Yes
+ORD10197,15/07/2024,49.0,Pune ,Beauty,1,303.98,0.2,,,4.5,NO
+ORD10198,16/07/2024,41.0,Pune,Electronics,2,293.52,0.3,upi,App,4,No
+ORD10199,17/07/2024,58.0,N/A,electronics,5,1460.4,0.1,Credit Card,App,1,No
+ORD10200,18/07/2024,29.0,Pune,electronics,4,459.48,0.2,CreditCard,App,2,Yes
+ORD10201,19/07/2024,56.0,Pune,Grocery,3,313.63,0,COD,Website,,No
+ORD10202,20/07/2024,19.0,Pune ,Beauty,3,479.74,0.15,Cash,website,5,
+ORD10203,21/07/2024,20.0,Mumbai,Clothng,2,698.62,0.05,Cash,,3,No
+ORD10204,22/07/2024,54.0,Hyderabad,electronics,2,509.56,0.3,COD,Mobile App,2,No
+ORD10205,23/07/2024,34.0,mumbai,,3,431.07,10%,COD,Mobile App,1,No
+ORD10206,2024-07-24,19.0,mumbai,Clothng,3,322.95,0.3,COD,Mobile App,2,NO
+ORD10207,25/07/2024,19.0,Bangalore,Electronics,5,320.41,0.15,Debit Card,Mobile App,3,No
+ORD10208,26/07/2024,45.0,Pune ,Grocery,3,334.09,0.15,CreditCard,App,1,No
+ORD10209,27/07/2024,40.0,Bangalore,Clothing,4,614.14,10%,Cash,Mobile App,4,NO
+ORD10210,28/07/2024,54.0,Chennai,Clothng,1,258.21,,CreditCard,website,1,No
+ORD10211,29/07/2024,49.0,Chennai,electronics,2,636.27,0,upi,App,4,Yes
+ORD10212,30/07/2024,50.0,Bangalore,Electronics,1,1234.53,0.2,Cash,Mobile App,1,Yes
+ORD10213,31/07/2024,18.0,Pune ,Home,1,608.93,,Debit Card,Website,,No
+ORD10214,01/08/2024,36.0,Bangalore,Electronics,4,387.52,0.1,COD,Store,0,No
+ORD10215,02/08/2024,19.0,mumbai,Electronics,,211.92,0.3,Credit Card,Store,3,No
+ORD10216,03/08/2024,61.0,Delhi,Grocery,1,1374.4,10%,COD,Store,3,NO
+ORD10217,04/08/2024,43.0,Pune,Clothing,2,230.32,0.3,,App,1,Yes
+ORD10218,05/08/2024,49.0,Delhi,Home,4,855.4,,COD,Mobile App,0,No
+ORD10219,06/08/2024,23.0,Pune ,Beauty,1,746.23,0.15,Debit Card,,2,No
+ORD10220,07/08/2024,49.0,Delhi,Beauty,3,422.46,0.2,CreditCard,,3,No
+ORD10221,08/08/2024,21.0,Chennai,Clothng,4,415.33,0.3,Cash,,,No
+ORD10222,09/08/2024,28.0,N/A,Electronics,3,149.42,0.1,COD,App,4,Yes
+ORD10223,10/08/2024,34.0,Pune,,1,610.66,0.15,Cash,website,4,No
+ORD10224,11/08/2024,55.0,Hyderabad,Grocery,2,737.27,0.1,UPI,Website,5,No
+ORD10225,12/08/2024,41.0,Pune ,,4,242.77,0.2,upi,Website,4.5,NO
+ORD10226,13/08/2024,22.0,Pune,Grocery,3,445.29,0.3,CreditCard,Store,0,NO
+ORD10227,14/08/2024,51.0,Delhi,Beauty,1,505.03,0.05,Cash,Store,4.5,No
+ORD10228,15/08/2024,23.0,Chennai,Clothng,4,720.52,,Credit Card,,4.5,No
+ORD10229,16/08/2024,39.0,Mumbai,Clothng,1,,0.3,upi,,4,No
+ORD10230,2024-08-17,28.0,Hyderabad,Clothng,4,171.21,,,Store,,No
+ORD10231,18/08/2024,33.0,Pune,Home,1,349.16,0.2,,Mobile App,,No
+ORD10232,19/08/2024,50.0,Chennai,Clothing,-1,570.21,0.3,Credit Card,website,5,No
+ORD10233,20/08/2024,26.0,Chennai,Home,2,851.49,,COD,website,4.5,No
+ORD10234,21/08/2024,23.0,Delhi,electronics,2,329.82,10%,upi,website,4.5,Yes
+ORD10235,22/08/2024,33.0,mumbai,electronics,1,2042.59,,Cash,website,1,No
+ORD10236,23/08/2024,46.0,Delhi,,2,143.82,0.3,upi,Store,1,Yes
+ORD10237,24/08/2024,20.0,mumbai,Clothing,5,341.58,0,COD,Website,1,No
+ORD10238,25/08/2024,37.0,mumbai,Beauty,,466.86,0.3,Debit Card,Store,2,No
+ORD10239,26/08/2024,53.0,Hyderabad,Clothing,2,432.47,0.3,CreditCard,website,4.5,No
+ORD10240,27/08/2024,36.0,Delhi,Grocery,2,221.21,,Credit Card,Store,,No
+ORD10241,28/08/2024,43.0,Mumbai,electronics,4,659.25,0.1,COD,website,,
+ORD10242,29/08/2024,20.0,Bangalore,Electronics,5,627.17,0.05,Debit Card,App,2,yes
+ORD10243,30/08/2024,36.0,Bangalore,Electronics,3,508.35,0.1,upi,,,No
+ORD10244,31/08/2024,37.0,Delhi,Beauty,2,611.37,,upi,Website,5,No
+ORD10245,01/09/2024,49.0,Delhi,Grocery,2,374.11,0.1,COD,App,0,NO
+ORD10246,02/09/2024,24.0,Hyderabad,,3,172.21,0.15,Cash,Mobile App,4,No
+ORD10247,03/09/2024,58.0,Delhi,Home,1,309.26,0,upi,Store,4.5,No
+ORD10248,04/09/2024,50.0,mumbai,Grocery,3,545.71,0.1,Cash,Mobile App,,NO
+ORD10249,05/09/2024,57.0,Chennai,Electronics,2,547.73,10%,Cash,Store,4,NO
+ORD10250,06/09/2024,56.0,Chennai,Electronics,4,506.18,0.2,CreditCard,,,
+ORD10251,07/09/2024,35.0,mumbai,,1,703.92,10%,Cash,App,0,NO
+ORD10252,08/09/2024,150.0,Pune ,electronics,3,337.73,0.2,UPI,,1,NO
+ORD10253,09/09/2024,18.0,mumbai,Grocery,2,501.37,0.3,CreditCard,website,4.5,Yes
+ORD10254,10/09/2024,28.0,Mumbai,Grocery,3,714.7,0.15,Debit Card,,3,Yes
+ORD10255,11/09/2024,45.0,N/A,Electronics,1,466.3,0,Debit Card,,2,No
+ORD10256,12/09/2024,42.0,Pune,Home,3,219.61,10%,upi,website,2,No
+ORD10257,13/09/2024,40.0,mumbai,Beauty,3,263.76,0,upi,Store,4.5,No
+ORD10258,14/09/2024,48.0,Delhi,Clothng,3,845.61,10%,Cash,website,0,No
+ORD10259,15/09/2024,47.0,Delhi,Beauty,3,1218.17,0.3,CreditCard,App,1,No
+ORD10260,16/09/2024,59.0,Hyderabad,Grocery,3,,0.2,CreditCard,,2,No
+ORD10261,17/09/2024,52.0,mumbai,Beauty,4,573.01,0.05,UPI,website,1,Yes
+ORD10262,2024-09-18,24.0,Hyderabad,Electronics,1,225.42,0.15,Cash,,5,No
+ORD10263,2024-09-19,33.0,mumbai,Electronics,4,490.72,10%,UPI,App,4,No
+ORD10264,20/09/2024,43.0,Pune,,2,1360.31,10%,,Mobile App,0,No
+ORD10265,21/09/2024,19.0,N/A,Grocery,1,736.58,0.3,Cash,App,3,No
+ORD10266,22/09/2024,18.0,Chennai,,1,430.58,0.15,Credit Card,Website,4,No
+ORD10267,23/09/2024,29.0,Bangalore,Grocery,2,741.45,0.2,Credit Card,Website,4,No
+ORD10268,24/09/2024,22.0,mumbai,Clothng,4,215.92,0.2,COD,Website,5,No
+ORD10269,25/09/2024,54.0,N/A,Clothng,3,313.5,10%,Cash,,2,Yes
+ORD10270,26/09/2024,49.0,Chennai,electronics,4,243.54,0.05,CreditCard,Store,3,No
+ORD10271,27/09/2024,26.0,Pune ,Grocery,2,668.62,0.05,upi,Store,2,No
+ORD10272,28/09/2024,58.0,Pune,Home,2,783.81,0,Debit Card,Store,4.5,NO
+ORD10273,29/09/2024,52.0,Hyderabad,Beauty,1,445.86,0.15,COD,,4,No
+ORD10274,30/09/2024,36.0,Hyderabad,Grocery,2,279.39,0.15,upi,App,4.5,No
+ORD10275,01/10/2024,33.0,Delhi,Clothing,2,486.46,0.2,Credit Card,Store,1,Yes
+ORD10276,02/10/2024,20.0,Chennai,electronics,1,359.14,0,Cash,Mobile App,4,No
+ORD10277,03/10/2024,37.0,Pune ,Clothing,1,293.68,0.3,COD,Website,2,No
+ORD10278,04/10/2024,41.0,N/A,Electronics,3,614.22,0.15,Cash,App,4,No
+ORD10279,05/10/2024,50.0,Pune,Clothng,4,301.06,0,Credit Card,Website,1,No
+ORD10280,06/10/2024,41.0,Chennai,Beauty,,178.02,0,COD,Store,5,No
+ORD10281,07/10/2024,28.0,Pune ,Grocery,10,205.68,10%,Credit Card,App,4.5,No
+ORD10282,08/10/2024,25.0,Bangalore,Clothing,3,173.8,0.2,UPI,website,,No
+ORD10283,09/10/2024,53.0,mumbai,Beauty,2,578.76,0,Credit Card,Mobile App,4.5,No
+ORD10284,10/10/2024,55.0,Hyderabad,Electronics,3,543.36,,CreditCard,Store,2,NO
+ORD10285,11/10/2024,57.0,N/A,Clothng,4,526.02,0.05,CreditCard,Store,4,No
+ORD10286,12/10/2024,37.0,Hyderabad,Home,1,722.0,,Cash,Mobile App,2,No
+ORD10287,13/10/2024,52.0,N/A,electronics,2,1069.31,0.05,Debit Card,Mobile App,5,Yes
+ORD10288,14/10/2024,42.0,Delhi,Beauty,5,,0.1,Credit Card,website,4,No
+ORD10289,2024-10-15,52.0,N/A,Beauty,2,641.76,0.2,upi,Store,,No
+ORD10290,16/10/2024,42.0,Hyderabad,Home,3,176.49,10%,CreditCard,,4,No
+ORD10291,17/10/2024,46.0,N/A,Beauty,3,1207.32,0.3,,Store,,yes
+ORD10292,18/10/2024,35.0,Bangalore,Electronics,1,219.39,,Debit Card,Website,2,No
+ORD10293,19/10/2024,63.0,Delhi,Electronics,2,310.58,,UPI,App,2,NO
+ORD10294,20/10/2024,35.0,N/A,Home,2,334.12,0.1,COD,App,1,Yes
+ORD10295,21/10/2024,19.0,Chennai,electronics,1,182.71,0.05,COD,Website,0,NO
+ORD10296,22/10/2024,52.0,Mumbai,Grocery,1,503.29,10%,CreditCard,App,0,No
+ORD10297,23/10/2024,33.0,Pune ,Clothing,5,566.25,0.1,Debit Card,Mobile App,5,No
+ORD10298,24/10/2024,58.0,Mumbai,Grocery,1,435.67,0.2,CreditCard,App,0,No
+ORD10299,25/10/2024,53.0,Mumbai,Beauty,2,181.06,10%,COD,App,1,No
+ORD10300,26/10/2024,50.0,Pune,Clothing,2,1788.62,0.2,,Website,4.5,
+ORD10301,27/10/2024,21.0,Bangalore,,-1,704.16,0,Credit Card,website,,No
+ORD10302,28/10/2024,50.0,Chennai,Home,1,2730.51,0.15,Debit Card,App,4,Yes
+ORD10303,29/10/2024,31.0,mumbai,Home,2,291.98,0,Cash,,2,No
+ORD10304,30/10/2024,38.0,N/A,electronics,5,918.39,0.2,Credit Card,App,4,No
+ORD10305,31/10/2024,37.0,Pune ,Clothing,5,817.73,,Credit Card,website,4,No
+ORD10306,01/11/2024,25.0,Delhi,Electronics,1,407.94,10%,Credit Card,Website,3,No
+ORD10307,02/11/2024,24.0,Chennai,Clothing,4,1232.97,0.05,Cash,website,4.5,No
+ORD10308,03/11/2024,20.0,Hyderabad,Beauty,2,378.6,0.3,,Website,3,NO
+ORD10309,04/11/2024,34.0,mumbai,Electronics,2,389.72,0.05,UPI,Mobile App,0,No
+ORD10310,05/11/2024,50.0,Pune,Clothng,1,51.6,10%,,Website,4,No
+ORD10311,06/11/2024,29.0,Pune,Clothng,1,642.82,0,,Mobile App,,No
+ORD10312,07/11/2024,39.0,Chennai,,4,208.18,0.3,,Mobile App,2,No
+ORD10313,08/11/2024,39.0,Mumbai,Clothng,2,344.48,10%,upi,Website,,No
+ORD10314,09/11/2024,,Hyderabad,Home,2,252.89,0.2,CreditCard,,4,No
+ORD10315,2024-11-10,47.0,Pune,Clothing,4,388.37,,COD,Store,4.5,No
+ORD10316,11/11/2024,55.0,Pune ,Clothng,4,657.55,0.05,CreditCard,Website,,No
+ORD10317,12/11/2024,55.0,Pune,Grocery,1,496.33,0.2,Debit Card,App,3,NO
+ORD10318,13/11/2024,62.0,Delhi,electronics,3,781.54,0.3,,,2,No
+ORD10319,14/11/2024,25.0,N/A,Grocery,1,1121.77,0.3,UPI,,4,No
+ORD10320,15/11/2024,44.0,Pune,Clothng,4,387.72,0.05,Debit Card,App,5,NO
+ORD10321,16/11/2024,44.0,Delhi,,3,361.02,0.2,CreditCard,Store,4.5,
+ORD10322,17/11/2024,51.0,Chennai,electronics,-1,918.3,0.1,COD,,4.5,No
+ORD10323,18/11/2024,38.0,Chennai,Beauty,1,966.89,0.2,Cash,Mobile App,5,No
+ORD10324,19/11/2024,47.0,mumbai,Grocery,1,797.42,0.3,CreditCard,Store,,No
+ORD10325,20/11/2024,50.0,Pune,,2,265.36,0.2,Credit Card,App,4,NO
+ORD10326,21/11/2024,45.0,Pune ,Clothing,1,648.54,,CreditCard,Store,4.5,NO
+ORD10327,22/11/2024,64.0,Pune,Clothing,1,529.09,10%,Credit Card,Website,2,No
+ORD10328,23/11/2024,50.0,Pune ,Grocery,5,976.67,0,Cash,Store,4,No
+ORD10329,24/11/2024,22.0,Bangalore,Clothng,1,339.55,,CreditCard,Mobile App,4,No
+ORD10330,25/11/2024,36.0,mumbai,,1,166.78,0.1,UPI,Website,3,yes
+ORD10331,26/11/2024,21.0,Bangalore,Clothing,4,771.74,0.15,UPI,website,4.5,No
+ORD10332,27/11/2024,52.0,Pune,Beauty,2,93.42,10%,Debit Card,App,4.5,No
+ORD10333,28/11/2024,34.0,mumbai,Electronics,4,306.29,0,Cash,App,5,
+ORD10334,29/11/2024,61.0,Bangalore,Clothng,1,253.39,0.15,,Store,3,Yes
+ORD10335,30/11/2024,45.0,Mumbai,,2,252.28,0.05,UPI,,,No
+ORD10336,01/12/2024,47.0,Pune,Beauty,1,302.82,0.15,CreditCard,Website,0,No
+ORD10337,02/12/2024,46.0,Bangalore,,1,1087.13,10%,Cash,website,,No
+ORD10338,03/12/2024,63.0,Mumbai,electronics,5,839.97,0.2,COD,Website,,Yes
+ORD10339,04/12/2024,23.0,Mumbai,Beauty,1,418.37,10%,Credit Card,App,3,Yes
+ORD10340,05/12/2024,5.0,Chennai,Clothng,3,1029.53,,CreditCard,Website,4.5,No
+ORD10341,06/12/2024,58.0,Pune,electronics,2,,0.15,Credit Card,website,4,NO
+ORD10342,07/12/2024,54.0,Mumbai,Clothng,2,226.13,0.3,Credit Card,,3,No
+ORD10343,08/12/2024,41.0,Chennai,Clothing,5,863.8,0,,Store,5,No
+ORD10344,09/12/2024,46.0,Bangalore,Electronics,1,718.21,0,Cash,Mobile App,3,No
+ORD10345,10/12/2024,63.0,Delhi,Clothng,3,365.34,0.15,Cash,Website,5,No
+ORD10346,11/12/2024,48.0,Pune,Clothng,,235.56,0,Debit Card,Mobile App,,No
+ORD10347,12/12/2024,,mumbai,Clothing,3,1272.61,0.3,Credit Card,App,0,No
+ORD10348,13/12/2024,50.0,Pune ,Home,10,161.09,10%,Debit Card,Store,3,No
+ORD10349,14/12/2024,38.0,Pune ,Clothing,1,333.96,0,,Store,5,Yes
+ORD10350,15/12/2024,49.0,Bangalore,electronics,2,571.68,0.15,Credit Card,Website,3,Yes
+ORD10351,16/12/2024,40.0,Bangalore,Clothing,1,1589.87,0.1,Debit Card,,0,No
+ORD10352,17/12/2024,50.0,Mumbai,Clothing,4,632.08,0.1,Debit Card,Store,,NO
+ORD10353,18/12/2024,20.0,Pune,Electronics,,673.3,0.05,COD,Website,3,NO
+ORD10354,19/12/2024,-3.0,Pune ,Clothing,1,340.32,,Debit Card,Website,2,No
+ORD10355,20/12/2024,42.0,Pune ,,3,713.02,0,Cash,Mobile App,5,yes
+ORD10356,21/12/2024,59.0,Mumbai,Clothng,1,527.66,,Debit Card,Store,0,NO
+ORD10357,22/12/2024,48.0,Pune ,,3,175.48,10%,Credit Card,Website,5,No
+ORD10358,23/12/2024,20.0,mumbai,Electronics,2,825.02,0.15,Debit Card,Mobile App,5,No
+ORD10359,24/12/2024,57.0,Pune,Grocery,,925.89,0,UPI,website,1,NO
+ORD10360,25/12/2024,63.0,N/A,Home,3,,0.2,upi,Mobile App,0,No
+ORD10361,26/12/2024,41.0,Pune ,,2,503.54,0.3,Credit Card,Mobile App,3,NO
+ORD10362,27/12/2024,49.0,Bangalore,Electronics,1,264.67,0,UPI,Website,5,
+ORD10363,28/12/2024,64.0,mumbai,electronics,1,109.84,0,,App,4.5,No
+ORD10364,29/12/2024,39.0,Pune ,Grocery,1,545.71,,Credit Card,App,1,NO
+ORD10365,2024-12-30,40.0,mumbai,Electronics,1,995.52,,Cash,,2,No
+ORD10366,31/12/2024,19.0,Chennai,Electronics,5,941.14,0.1,upi,App,5,No
+ORD10367,01/01/2025,44.0,N/A,Home,3,837.52,0.3,upi,Mobile App,,No
+ORD10368,02/01/2025,59.0,Hyderabad,Clothng,2,469.54,0.15,Cash,,5,Yes
+ORD10369,2025-01-03,19.0,Bangalore,,1,999.1,0,upi,Website,1,No
+ORD10370,04/01/2025,43.0,Bangalore,electronics,5,898.48,0.1,Cash,Store,3,No
+ORD10371,05/01/2025,34.0,Pune,Beauty,4,374.39,,UPI,Mobile App,4.5,Yes
+ORD10372,06/01/2025,57.0,mumbai,,1,764.93,0.05,,Mobile App,,Yes
+ORD10373,07/01/2025,50.0,Mumbai,Beauty,3,,0.3,COD,,2,No
+ORD10374,08/01/2025,26.0,Bangalore,Electronics,3,699.95,0.1,Credit Card,Website,,No
+ORD10375,09/01/2025,60.0,mumbai,Clothing,1,211.79,0.1,Cash,website,5,
+ORD10376,10/01/2025,56.0,mumbai,electronics,2,222.64,10%,Credit Card,Mobile App,3,
+ORD10377,11/01/2025,46.0,Delhi,Grocery,2,980.28,0.1,,website,0,No
+ORD10378,12/01/2025,59.0,Delhi,Clothing,1,906.34,10%,UPI,website,4.5,NO
+ORD10379,13/01/2025,43.0,Hyderabad,Clothing,-1,743.86,0,COD,App,0,No
+ORD10380,14/01/2025,52.0,Chennai,,5,521.75,0,,Website,4.5,No
+ORD10381,15/01/2025,42.0,Hyderabad,electronics,3,104.13,,UPI,website,2,No
+ORD10382,16/01/2025,41.0,Pune ,Clothng,2,469.34,0.05,upi,Website,4,No
+ORD10383,17/01/2025,30.0,Mumbai,Electronics,2,661.97,0.2,Credit Card,App,4.5,NO
+ORD10384,18/01/2025,24.0,Pune ,Electronics,3,,0.2,CreditCard,Website,4,No
+ORD10385,19/01/2025,53.0,Pune ,Electronics,3,310.1,0.2,COD,Mobile App,0,No
+ORD10386,20/01/2025,62.0,Pune,Electronics,1,1260.01,,upi,website,4.5,No
+ORD10387,21/01/2025,37.0,Pune ,,2,473.81,10%,,Website,2,No
+ORD10388,2025-01-22,18.0,Hyderabad,Beauty,4,662.23,,COD,Store,1,No
+ORD10389,23/01/2025,25.0,Bangalore,Electronics,2,815.0,0.3,upi,Website,2,No
+ORD10390,24/01/2025,63.0,Bangalore,Beauty,1,257.0,0.3,UPI,website,2,Yes
+ORD10391,25/01/2025,33.0,Delhi,Beauty,4,558.68,0.05,Cash,App,1,No
+ORD10392,26/01/2025,31.0,Mumbai,Clothng,1,1161.85,0.3,Credit Card,App,1,No
+ORD10393,27/01/2025,29.0,Mumbai,Electronics,1,1607.6,0.2,Debit Card,website,3,No
+ORD10394,28/01/2025,40.0,Pune,Home,1,505.71,0.2,Debit Card,Mobile App,4.5,No
+ORD10395,29/01/2025,32.0,Hyderabad,Grocery,2,422.14,,UPI,Mobile App,0,No
+ORD10396,30/01/2025,45.0,Delhi,Clothing,4,586.91,0.1,,App,3,No
+ORD10397,31/01/2025,51.0,Mumbai,Beauty,2,577.3,0.3,Credit Card,App,1,No
+ORD10398,01/02/2025,19.0,Bangalore,electronics,1,1213.66,,,website,4,No
+ORD10399,02/02/2025,49.0,Pune ,electronics,5,257.84,0,Credit Card,Mobile App,0,No
+ORD10400,03/02/2025,40.0,Pune ,Grocery,5,410.79,0,UPI,App,4,NO
+ORD10401,04/02/2025,39.0,Delhi,electronics,5,238.38,0.1,Credit Card,Mobile App,2,No
+ORD10402,05/02/2025,42.0,Hyderabad,Home,1,255.22,0.1,Cash,App,5,No
+ORD10403,06/02/2025,39.0,Hyderabad,electronics,2,,0.1,,Website,2,NO
+ORD10404,07/02/2025,39.0,Chennai,Clothing,,834.15,,UPI,Store,2,No
+ORD10405,08/02/2025,59.0,N/A,Clothing,4,323.08,0,Cash,,5,No
+ORD10406,09/02/2025,,Mumbai,Beauty,1,813.92,0.2,Credit Card,Website,4.5,No
+ORD10407,10/02/2025,32.0,Hyderabad,Electronics,1,1014.88,0.1,UPI,,1,Yes
+ORD10408,11/02/2025,60.0,Bangalore,Clothng,2,1732.91,0.05,Credit Card,App,4,No
+ORD10409,12/02/2025,54.0,Delhi,Home,5,515.6,10%,,Store,2,
+ORD10410,13/02/2025,50.0,Chennai,Beauty,3,325.11,,UPI,Store,5,No
+ORD10411,14/02/2025,,mumbai,Home,2,256.82,0.1,Credit Card,App,3,No
+ORD10412,15/02/2025,61.0,Pune,Electronics,1,240.77,10%,,App,2,
+ORD10413,16/02/2025,61.0,mumbai,,3,1110.27,0.15,Cash,Mobile App,4,
+ORD10414,17/02/2025,22.0,Pune ,electronics,4,184.05,0.1,CreditCard,App,1,No
+ORD10415,18/02/2025,56.0,Pune,electronics,2,1087.39,0,Cash,website,2,No
+ORD10416,19/02/2025,21.0,Mumbai,Clothng,4,280.2,0.3,Credit Card,App,2,NO
+ORD10417,20/02/2025,23.0,Bangalore,Electronics,,315.64,0.1,UPI,website,4.5,No
+ORD10418,21/02/2025,62.0,Pune,Beauty,1,446.52,,Debit Card,App,,No
+ORD10419,22/02/2025,49.0,N/A,Clothng,2,311.88,0.3,Cash,Mobile App,5,NO
+ORD10420,23/02/2025,47.0,mumbai,Electronics,2,903.06,0.15,Cash,website,3,No
+ORD10421,24/02/2025,64.0,Mumbai,Grocery,4,1601.46,0.05,,Website,3,No
+ORD10422,25/02/2025,52.0,N/A,Clothing,3,321.39,0.3,upi,website,0,No
+ORD10423,26/02/2025,57.0,Pune ,Clothng,3,372.06,10%,Debit Card,Mobile App,1,No
+ORD10424,27/02/2025,33.0,N/A,Clothng,4,443.12,0.2,Credit Card,,0,No
+ORD10425,28/02/2025,30.0,Chennai,Beauty,2,700.42,0.1,CreditCard,website,4,No
+ORD10426,2025-03-01,59.0,Chennai,Home,10,445.96,0.15,UPI,App,1,Yes
+ORD10427,02/03/2025,47.0,Delhi,Grocery,3,1214.05,0.15,upi,App,2,No
+ORD10428,03/03/2025,36.0,Mumbai,Beauty,1,1038.26,0.3,Credit Card,,,No
+ORD10429,04/03/2025,34.0,Pune ,Electronics,3,228.02,0.05,COD,Mobile App,2,No
+ORD10430,05/03/2025,36.0,Hyderabad,Electronics,4,691.34,0,CreditCard,Store,3,No
+ORD10431,06/03/2025,45.0,Chennai,Electronics,2,1323.75,0.1,Cash,App,4,No
+ORD10432,07/03/2025,43.0,Mumbai,,5,357.23,0.15,COD,Website,5,yes
+ORD10433,08/03/2025,54.0,Hyderabad,Electronics,5,406.97,0.05,Cash,Mobile App,4,Yes
+ORD10434,09/03/2025,43.0,Delhi,Home,1,349.6,0.2,Cash,website,2,No
+ORD10435,10/03/2025,40.0,N/A,Grocery,,354.39,0.15,COD,website,5,yes
+ORD10436,11/03/2025,26.0,Chennai,electronics,1,166.59,0.05,CreditCard,Website,4,No
+ORD10437,12/03/2025,29.0,Mumbai,Clothing,1,207.8,,,App,,No
+ORD10438,13/03/2025,18.0,Pune,Home,1,518.2,0,COD,Mobile App,,NO
+ORD10439,14/03/2025,18.0,Hyderabad,Home,5,1317.96,0,Credit Card,Website,4,No
+ORD10440,15/03/2025,64.0,N/A,,3,330.73,0.15,upi,App,5,Yes
+ORD10441,16/03/2025,51.0,Chennai,electronics,1,324.47,10%,upi,Mobile App,2,No
+ORD10442,17/03/2025,49.0,Pune ,electronics,2,1489.19,0.15,COD,website,4,Yes
+ORD10443,18/03/2025,42.0,Hyderabad,Clothing,3,,0.3,Credit Card,Mobile App,5,NO
+ORD10444,19/03/2025,57.0,Chennai,Clothing,1,167.37,0.1,,,4.5,No
+ORD10445,20/03/2025,62.0,Hyderabad,electronics,5,287.57,0.05,upi,Store,,yes
+ORD10446,21/03/2025,18.0,N/A,Electronics,4,320.28,0.15,Credit Card,Mobile App,4.5,yes
+ORD10447,22/03/2025,33.0,Chennai,Home,2,158.25,0.1,,Store,2,No
+ORD10448,23/03/2025,56.0,mumbai,Beauty,,453.4,0.3,Credit Card,Mobile App,5,No
+ORD10449,24/03/2025,22.0,Mumbai,Clothing,2,912.78,,Cash,Store,4.5,Yes
+ORD10450,25/03/2025,39.0,N/A,,,213.61,,upi,,5,No
+ORD10451,2025-03-26,46.0,Hyderabad,,3,521.61,0.1,,website,4,Yes
+ORD10452,27/03/2025,20.0,Pune ,Clothing,3,637.38,0.15,upi,App,2,NO
+ORD10453,28/03/2025,29.0,Pune,electronics,1,466.75,0,Cash,Store,4.5,
+ORD10454,29/03/2025,43.0,Hyderabad,Grocery,5,555.96,0.05,COD,,0,No
+ORD10455,30/03/2025,33.0,Mumbai,Beauty,2,560.18,0.05,Cash,Store,4,No
+ORD10456,31/03/2025,54.0,Chennai,Beauty,1,290.54,,upi,website,,No
+ORD10457,01/04/2025,39.0,Pune,Clothing,1,1305.16,,upi,Store,0,No
+ORD10458,02/04/2025,46.0,Bangalore,Electronics,3,1108.81,0,CreditCard,,0,NO
+ORD10459,03/04/2025,31.0,Hyderabad,Grocery,2,1067.89,10%,,,1,No
+ORD10460,04/04/2025,45.0,Delhi,Beauty,4,952.31,0.15,COD,Website,1,No
+ORD10461,05/04/2025,22.0,Bangalore,Clothing,5,177.02,,Cash,website,2,NO
+ORD10462,06/04/2025,64.0,Hyderabad,,1,899.59,,,Website,4.5,No
+ORD10463,07/04/2025,47.0,mumbai,Beauty,4,754.56,,UPI,website,4.5,NO
+ORD10464,08/04/2025,63.0,Delhi,Clothng,1,181.5,0.05,,Store,4.5,NO
+ORD10465,09/04/2025,999.0,Pune,Grocery,5,428.51,0.15,UPI,,5,No
+ORD10466,10/04/2025,29.0,Pune ,Grocery,4,589.88,0.3,COD,Website,4,Yes
+ORD10467,11/04/2025,33.0,mumbai,Clothng,3,1453.61,0.15,Cash,Store,4.5,
+ORD10468,12/04/2025,43.0,Bangalore,Home,4,789.24,0.1,Cash,,4,NO
+ORD10469,13/04/2025,43.0,Chennai,,2,280.91,0,Credit Card,website,2,Yes
+ORD10470,14/04/2025,38.0,Mumbai,Clothng,2,1483.27,10%,upi,,0,NO
+ORD10471,15/04/2025,56.0,Pune ,electronics,4,506.97,,Debit Card,Store,4.5,No
+ORD10472,16/04/2025,53.0,mumbai,electronics,2,417.26,,CreditCard,Website,2,No
+ORD10473,17/04/2025,50.0,Chennai,Clothing,2,398.37,0.15,,Website,4.5,NO
+ORD10474,18/04/2025,47.0,Chennai,Grocery,2,171.52,10%,COD,,1,No
+ORD10475,19/04/2025,54.0,Hyderabad,Home,4,458.82,,Debit Card,Store,3,NO
+ORD10476,20/04/2025,40.0,mumbai,Home,2,680.87,10%,,Mobile App,2,No
+ORD10477,21/04/2025,27.0,Pune,Beauty,1,383.56,0.3,Debit Card,website,4.5,No
+ORD10478,22/04/2025,22.0,Delhi,Beauty,4,647.61,0.2,COD,website,,No
+ORD10479,23/04/2025,53.0,Delhi,Clothng,4,280.94,0,Cash,Store,3,No
+ORD10480,24/04/2025,51.0,Bangalore,Home,1,449.62,10%,COD,Mobile App,2,No
+ORD10481,25/04/2025,48.0,Bangalore,Clothng,1,605.32,0.05,,Website,,No
+ORD10482,26/04/2025,27.0,Delhi,,1,557.4,0.1,Debit Card,App,,No
+ORD10483,27/04/2025,36.0,Pune,Clothng,2,173.55,0.05,upi,App,5,No
+ORD10484,28/04/2025,49.0,Mumbai,Beauty,2,370.42,,CreditCard,Store,,Yes
+ORD10485,29/04/2025,18.0,N/A,Grocery,4,1466.09,0.3,CreditCard,Mobile App,4.5,NO
+ORD10486,30/04/2025,22.0,Mumbai,Clothng,3,357.78,0.3,upi,Mobile App,5,No
+ORD10487,01/05/2025,62.0,Hyderabad,Electronics,3,497.84,0.05,upi,website,1,No
+ORD10488,02/05/2025,21.0,N/A,Grocery,2,465.73,0,Cash,Website,4.5,No
+ORD10489,03/05/2025,33.0,N/A,Home,5,1365.61,0.05,,,0,No
+ORD10490,04/05/2025,41.0,mumbai,Home,2,1139.95,0.15,UPI,Mobile App,,Yes
+ORD10491,05/05/2025,33.0,Pune,Clothng,,832.88,,COD,,1,No
+ORD10492,06/05/2025,19.0,Pune,Grocery,3,261.75,,CreditCard,App,3,No
+ORD10493,07/05/2025,45.0,N/A,Beauty,1,,0.05,upi,,2,No
+ORD10494,08/05/2025,49.0,mumbai,Beauty,3,712.77,0.1,COD,Website,,NO
+ORD10495,09/05/2025,44.0,N/A,electronics,2,312.91,0.1,CreditCard,Website,4,No
+ORD10496,2025-05-10,37.0,Pune ,Home,3,279.82,,upi,,1,Yes
+ORD10497,11/05/2025,41.0,Bangalore,Clothing,1,1492.58,0.2,,Store,4,No
+ORD10498,12/05/2025,29.0,Bangalore,electronics,1,405.24,0.1,CreditCard,Mobile App,,No
+ORD10499,13/05/2025,52.0,Mumbai,Beauty,5,1407.73,0.05,Cash,Store,4,No
+ORD10500,14/05/2025,50.0,Hyderabad,Grocery,1,942.1,0.1,UPI,,,No
+ORD10501,15/05/2025,50.0,Bangalore,,5,642.34,,UPI,Mobile App,2,No
+ORD10502,16/05/2025,60.0,Chennai,Beauty,1,661.26,0,upi,website,3,No
+ORD10503,17/05/2025,54.0,Mumbai,Grocery,3,198.29,10%,CreditCard,Store,2,Yes
+ORD10504,18/05/2025,29.0,Bangalore,electronics,3,563.63,0.1,Cash,Store,4.5,Yes
+ORD10505,19/05/2025,20.0,Hyderabad,Home,2,1237.77,0.15,Credit Card,,1,Yes
+ORD10506,20/05/2025,18.0,Pune,Beauty,2,767.29,0,COD,App,4,No
+ORD10507,21/05/2025,50.0,Pune,Clothng,1,544.75,0.2,COD,,2,No
+ORD10508,22/05/2025,57.0,N/A,Grocery,1,1499.31,0.15,Debit Card,Store,,No
+ORD10509,23/05/2025,27.0,Pune ,Home,2,436.91,0.05,Cash,Mobile App,2,No
+ORD10510,24/05/2025,60.0,Pune,,3,329.41,10%,CreditCard,App,2,No
+ORD10511,25/05/2025,61.0,mumbai,,10,544.57,0.05,,,1,No
+ORD10512,2025-05-26,46.0,Bangalore,Clothing,5,810.95,10%,,,3,No
+ORD10513,27/05/2025,30.0,mumbai,Grocery,4,161.33,10%,Debit Card,Store,0,Yes
+ORD10514,28/05/2025,29.0,Hyderabad,electronics,4,592.98,0.05,upi,Store,2,No
+ORD10515,29/05/2025,48.0,Pune,Clothing,3,834.41,0.15,CreditCard,website,1,No
+ORD10516,30/05/2025,63.0,Pune ,Clothing,1,413.53,0.15,Debit Card,,4,No
+ORD10517,31/05/2025,19.0,Hyderabad,Electronics,5,1011.84,10%,UPI,Store,,No
+ORD10518,2025-06-01,52.0,Chennai,Beauty,3,747.53,0.15,COD,Website,4.5,NO
+ORD10519,2025-06-02,40.0,Chennai,Grocery,3,1982.07,10%,CreditCard,App,0,No
+ORD10520,03/06/2025,34.0,mumbai,Clothing,1,302.51,,Debit Card,Website,5,No
+ORD10521,04/06/2025,43.0,N/A,Electronics,2,845.53,10%,UPI,App,0,NO
+ORD10522,05/06/2025,25.0,Mumbai,electronics,2,254.36,,Cash,,,NO
+ORD10523,06/06/2025,46.0,N/A,Home,5,172.43,0,Debit Card,website,0,No
+ORD10524,07/06/2025,43.0,N/A,Clothng,3,,0.3,upi,Store,,No
+ORD10525,08/06/2025,120.0,Pune ,Clothng,2,699.18,0,upi,Store,1,No
+ORD10526,09/06/2025,43.0,Pune,Grocery,,555.44,0.05,upi,Store,5,Yes
+ORD10527,10/06/2025,51.0,Pune ,Clothing,1,360.91,0.3,CreditCard,,2,No
+ORD10528,11/06/2025,58.0,Hyderabad,Clothng,2,155.59,0.1,,App,2,Yes
+ORD10529,12/06/2025,24.0,Chennai,Beauty,1,0.0,0.05,,Store,0,No
+ORD10530,13/06/2025,21.0,Pune ,Clothng,4,494.06,0.2,COD,Website,1,NO
+ORD10531,14/06/2025,62.0,Hyderabad,Clothng,10,825.15,0,Debit Card,Store,5,NO
+ORD10532,15/06/2025,28.0,Pune ,Clothng,2,487.48,0.15,Cash,,2,No
+ORD10533,16/06/2025,46.0,N/A,,5,580.47,0,Debit Card,website,4,No
+ORD10534,17/06/2025,53.0,Bangalore,Electronics,2,385.88,0.15,COD,Website,3,No
+ORD10535,18/06/2025,42.0,mumbai,Clothing,10,1536.09,0.3,UPI,Store,3,NO
+ORD10536,19/06/2025,38.0,Mumbai,Beauty,4,254.2,0.2,COD,Store,2,No
+ORD10537,20/06/2025,53.0,Pune ,Clothing,4,312.78,0.3,upi,Mobile App,5,Yes
+ORD10538,21/06/2025,27.0,Mumbai,,1,357.8,0.2,CreditCard,App,4.5,No
+ORD10539,22/06/2025,54.0,Delhi,Grocery,,701.18,0,UPI,Website,2,No
+ORD10540,23/06/2025,26.0,Pune ,Grocery,4,250.82,0.15,CreditCard,Mobile App,4.5,No
+ORD10541,24/06/2025,41.0,Bangalore,Grocery,2,538.19,0.3,upi,website,4.5,yes
+ORD10542,25/06/2025,52.0,Mumbai,electronics,4,548.5,0.2,Credit Card,App,,No
+ORD10543,26/06/2025,52.0,Pune ,Clothng,2,313.77,10%,COD,Website,,No
+ORD10544,27/06/2025,53.0,Pune,electronics,5,610.63,0.05,COD,Store,5,No
+ORD10545,28/06/2025,35.0,mumbai,Electronics,1,255.93,0.05,Cash,Website,4.5,Yes
+ORD10546,29/06/2025,56.0,Bangalore,Grocery,3,238.39,0.3,Debit Card,Store,4,NO
+ORD10547,30/06/2025,49.0,Mumbai,,3,525.71,0.15,UPI,App,5,NO
+ORD10548,01/07/2025,41.0,Bangalore,Beauty,1,167.53,10%,,Store,2,
+ORD10549,02/07/2025,,Hyderabad,Clothing,1,122.23,0.3,CreditCard,website,0,NO
+ORD10550,03/07/2025,49.0,mumbai,Clothng,1,696.69,0,UPI,,4,No
+ORD10551,04/07/2025,54.0,Pune ,Home,2,974.41,0.2,Cash,Store,1,Yes
+ORD10552,05/07/2025,29.0,Pune ,Beauty,2,363.79,,Cash,website,3,No
+ORD10553,2025-07-06,30.0,Pune ,Clothng,3,319.18,0,CreditCard,,2,NO
+ORD10554,07/07/2025,40.0,mumbai,electronics,2,947.28,0.05,,App,2,No
+ORD10555,08/07/2025,42.0,Pune,electronics,2,234.02,0.2,Debit Card,App,2,Yes
+ORD10556,09/07/2025,52.0,Delhi,Beauty,4,203.12,0.3,CreditCard,Website,4,yes
+ORD10557,10/07/2025,58.0,Chennai,electronics,1,780.52,0,CreditCard,website,1,Yes
+ORD10558,11/07/2025,47.0,N/A,Grocery,5,1.0,0.1,upi,website,0,No
+ORD10559,12/07/2025,34.0,Mumbai,Electronics,5,984.54,,,Mobile App,5,No
+ORD10560,13/07/2025,37.0,Pune,Clothing,3,122.59,0.15,Debit Card,Mobile App,,No
+ORD10561,14/07/2025,42.0,Mumbai,Electronics,3,198.26,10%,COD,,1,Yes
+ORD10562,15/07/2025,39.0,Pune ,Clothng,5,497.36,10%,upi,,4,yes
+ORD10563,16/07/2025,30.0,Bangalore,Clothing,1,646.44,0.15,Credit Card,Mobile App,2,No
+ORD10564,17/07/2025,36.0,Mumbai,,1,854.53,0.1,,,3,
+ORD10565,18/07/2025,53.0,Pune ,Clothing,1,552.05,0.05,Debit Card,Store,2,No
+ORD10566,19/07/2025,29.0,Mumbai,Electronics,4,548.41,0.2,Cash,Mobile App,5,Yes
+ORD10567,20/07/2025,58.0,Bangalore,Beauty,1,382.56,0.15,upi,website,4.5,No
+ORD10568,21/07/2025,36.0,Pune ,Clothing,3,1385.88,0.1,Debit Card,Store,3,No
+ORD10569,22/07/2025,29.0,Delhi,,,240.58,0.3,UPI,,2,No
+ORD10570,23/07/2025,26.0,Pune,,5,622.26,,CreditCard,App,0,yes
+ORD10571,24/07/2025,24.0,Hyderabad,,2,259.28,10%,Credit Card,Website,3,No
+ORD10572,25/07/2025,45.0,N/A,Electronics,1,697.57,,COD,Mobile App,4.5,No
+ORD10573,26/07/2025,31.0,mumbai,Clothing,5,251.12,0.1,CreditCard,App,,Yes
+ORD10574,27/07/2025,48.0,N/A,Home,3,799.1,,UPI,,1,No
+ORD10575,28/07/2025,36.0,N/A,Beauty,1,530.0,0.05,UPI,website,4,No
+ORD10576,29/07/2025,64.0,Pune ,Grocery,1,1531.52,0.05,Credit Card,Website,,No
+ORD10577,30/07/2025,33.0,Delhi,Clothing,5,410.48,0,COD,App,2,No
+ORD10578,31/07/2025,22.0,Hyderabad,,3,649.52,0.15,Cash,Website,5,NO
+ORD10579,01/08/2025,52.0,Pune,Home,4,296.85,0,upi,Mobile App,1,No
+ORD10580,02/08/2025,29.0,Pune,Grocery,5,408.65,,,,,Yes
+ORD10581,2025-08-03,42.0,Bangalore,Grocery,3,527.81,10%,COD,website,2,Yes
+ORD10582,04/08/2025,38.0,mumbai,Clothng,2,182.6,0.1,,,1,No
+ORD10583,05/08/2025,53.0,Mumbai,Clothing,2,196.08,0.2,Debit Card,Website,,No
+ORD10584,06/08/2025,40.0,Delhi,Electronics,2,727.71,,UPI,App,5,No
+ORD10585,2025-08-07,33.0,Mumbai,Clothing,2,448.11,0.2,Debit Card,Mobile App,2,yes
+ORD10586,08/08/2025,56.0,Hyderabad,Home,4,335.16,0.05,Cash,Mobile App,4.5,No
+ORD10587,09/08/2025,,N/A,Grocery,3,305.2,0.2,Debit Card,,4.5,No
+ORD10588,10/08/2025,59.0,Pune,Clothing,5,312.93,0.2,COD,App,5,No
+ORD10589,11/08/2025,56.0,Hyderabad,Electronics,2,530.15,10%,Debit Card,App,3,Yes
+ORD10590,12/08/2025,31.0,N/A,Clothng,3,658.04,0.2,Cash,Website,5,No
+ORD10591,13/08/2025,48.0,Pune,Clothing,3,126.49,,Cash,,3,
+ORD10592,14/08/2025,22.0,N/A,Beauty,3,1234.4,0.1,Cash,,2,No
+ORD10593,15/08/2025,52.0,mumbai,Clothng,3,1178.63,0.2,COD,Store,,No
+ORD10594,16/08/2025,40.0,Delhi,Electronics,1,108.32,0.3,Cash,,3,No
+ORD10595,17/08/2025,46.0,Hyderabad,Home,2,998.1,0.2,UPI,Mobile App,2,No
+ORD10596,18/08/2025,60.0,Hyderabad,Grocery,1,978.37,0.2,CreditCard,Website,2,No
+ORD10597,19/08/2025,28.0,Chennai,Clothing,2,492.89,0,Cash,App,0,No
+ORD10598,20/08/2025,35.0,Pune ,Electronics,2,,0.1,Debit Card,,4,Yes
+ORD10599,21/08/2025,64.0,mumbai,Clothng,3,953.27,,upi,Website,2,No
+ORD10600,22/08/2025,29.0,mumbai,Beauty,-1,421.24,0.05,Debit Card,,3,NO
+ORD10601,23/08/2025,26.0,Mumbai,Electronics,3,703.99,0,upi,App,4,No
+ORD10602,24/08/2025,27.0,N/A,electronics,4,2084.91,,Debit Card,website,4,No
+ORD10603,25/08/2025,61.0,Pune ,,2,580.39,0.15,COD,App,2,NO
+ORD10604,26/08/2025,34.0,Delhi,Beauty,3,271.52,0.1,Debit Card,App,5,NO
+ORD10605,27/08/2025,55.0,Delhi,Clothng,1,396.14,0.3,COD,App,5,No
+ORD10606,28/08/2025,24.0,mumbai,Home,1,294.97,0.1,COD,,4.5,No
+ORD10607,29/08/2025,63.0,Delhi,Grocery,2,653.12,0.15,Cash,Store,4,NO
+ORD10608,30/08/2025,30.0,Chennai,Clothng,2,291.8,0.15,UPI,App,2,No
+ORD10609,31/08/2025,57.0,Hyderabad,,1,362.36,0.15,upi,Mobile App,0,No
+ORD10610,01/09/2025,59.0,Bangalore,Home,1,213.82,10%,Cash,Mobile App,5,Yes
+ORD10611,02/09/2025,26.0,Mumbai,Clothing,1,452.21,0.05,Cash,Website,0,No
+ORD10612,03/09/2025,44.0,N/A,Electronics,,552.74,0.2,CreditCard,Store,2,No
+ORD10613,04/09/2025,19.0,N/A,electronics,2,86.05,0.1,COD,Website,2,No
+ORD10614,05/09/2025,22.0,Pune,Beauty,2,583.31,,COD,Mobile App,,No
+ORD10615,2025-09-06,46.0,Bangalore,Beauty,1,478.33,10%,upi,Mobile App,4,No
+ORD10616,07/09/2025,54.0,mumbai,Electronics,3,299.69,,Debit Card,website,,No
+ORD10617,08/09/2025,55.0,Chennai,electronics,2,1842.0,0.2,Debit Card,App,0,NO
+ORD10618,09/09/2025,36.0,Hyderabad,Electronics,1,918.75,0.2,,Mobile App,,NO
+ORD10619,10/09/2025,25.0,Hyderabad,Clothing,2,241.61,0.3,Cash,,4.5,No
+ORD10620,11/09/2025,62.0,Chennai,,1,849.68,0.15,,,4,No
+ORD10621,12/09/2025,,Pune ,Home,1,1106.46,0.05,Credit Card,Website,1,No
+ORD10622,13/09/2025,39.0,Pune,Clothng,1,536.9,0.3,Credit Card,Website,,No
+ORD10623,14/09/2025,,N/A,Beauty,1,623.24,0,,App,0,Yes
+ORD10624,15/09/2025,24.0,Bangalore,Clothing,1,613.96,10%,Debit Card,App,5,No
+ORD10625,16/09/2025,42.0,Delhi,Home,2,127.0,10%,Credit Card,website,5,NO
+ORD10626,17/09/2025,62.0,Pune,Clothing,4,436.39,0.05,CreditCard,Store,5,No
+ORD10627,18/09/2025,21.0,Bangalore,electronics,3,421.87,0.2,Debit Card,Website,3,No
+ORD10628,19/09/2025,53.0,Mumbai,Beauty,2,1248.38,,COD,App,2,No
+ORD10629,20/09/2025,23.0,Mumbai,Clothng,2,612.12,10%,Cash,Website,4,No
+ORD10630,21/09/2025,48.0,Pune,Electronics,10,406.08,0.05,UPI,App,5,No
+ORD10631,22/09/2025,,mumbai,Electronics,2,464.71,10%,Cash,Mobile App,1,No
+ORD10632,23/09/2025,61.0,Bangalore,Home,1,958.34,10%,,Website,5,No
+ORD10633,24/09/2025,56.0,Bangalore,Clothng,3,437.04,0.15,Debit Card,Mobile App,4.5,NO
+ORD10634,25/09/2025,44.0,Chennai,,1,312.99,0,,Website,2,No
+ORD10635,26/09/2025,27.0,mumbai,Grocery,2,411.91,0.15,CreditCard,Store,0,
+ORD10636,27/09/2025,43.0,N/A,electronics,2,908.19,0,Debit Card,website,2,No
+ORD10637,28/09/2025,36.0,N/A,Home,5,680.28,10%,Cash,,,No
+ORD10638,29/09/2025,56.0,Delhi,Grocery,2,507.13,0.3,CreditCard,,0,No
+ORD10639,30/09/2025,20.0,Hyderabad,Clothing,3,558.08,,CreditCard,,0,No
+ORD10640,01/10/2025,62.0,Mumbai,electronics,,342.46,0.2,CreditCard,Mobile App,,Yes
+ORD10641,02/10/2025,30.0,N/A,Clothing,1,434.39,10%,upi,App,4,No
+ORD10642,03/10/2025,45.0,mumbai,,1,,0,Debit Card,,,No
+ORD10643,04/10/2025,37.0,Bangalore,Clothng,2,406.83,0,Credit Card,Store,3,No
+ORD10644,05/10/2025,45.0,N/A,Beauty,2,1182.06,0,Credit Card,,0,Yes
+ORD10645,06/10/2025,25.0,Bangalore,electronics,2,244.54,10%,Debit Card,Website,0,No
+ORD10646,07/10/2025,58.0,N/A,Grocery,5,314.92,0.05,Debit Card,Mobile App,,Yes
+ORD10647,08/10/2025,56.0,Mumbai,,4,218.05,0.3,upi,Website,4,No
+ORD10648,09/10/2025,18.0,N/A,Beauty,3,189.41,0.05,Credit Card,Website,5,Yes
+ORD10649,10/10/2025,20.0,mumbai,Electronics,2,436.42,0.2,Debit Card,Website,4.5,NO
+ORD10650,11/10/2025,30.0,N/A,Grocery,4,329.82,10%,Debit Card,website,1,No
+ORD10651,12/10/2025,45.0,Hyderabad,Home,-1,1548.59,0,,website,4,No
+ORD10652,13/10/2025,42.0,Mumbai,Electronics,4,410.0,0.3,upi,App,3,No
+ORD10653,14/10/2025,50.0,mumbai,,1,1139.23,0.3,upi,Mobile App,4,No
+ORD10654,15/10/2025,55.0,Chennai,Electronics,3,924.45,0.1,Cash,Store,2,No
+ORD10655,16/10/2025,23.0,mumbai,Home,1,430.17,0.2,upi,Store,5,NO
+ORD10656,17/10/2025,61.0,Hyderabad,electronics,1,50000.0,,UPI,Store,5,NO
+ORD10657,18/10/2025,62.0,Mumbai,Electronics,1,586.72,,Credit Card,Website,0,Yes
+ORD10658,19/10/2025,49.0,Chennai,Clothng,3,1317.45,0.3,Cash,website,5,No
+ORD10659,20/10/2025,62.0,Hyderabad,Grocery,3,1221.44,10%,UPI,Mobile App,5,No
+ORD10660,21/10/2025,64.0,Hyderabad,Beauty,1,645.17,0,Debit Card,Website,,No
+ORD10661,22/10/2025,38.0,Pune,Electronics,2,802.9,0,,website,5,Yes
+ORD10662,23/10/2025,33.0,Mumbai,Grocery,2,739.26,0.3,,website,5,No
+ORD10663,24/10/2025,38.0,mumbai,Clothing,2,234.21,0.05,Debit Card,,1,No
+ORD10664,25/10/2025,28.0,Bangalore,Grocery,1,511.44,0.2,Cash,,3,NO
+ORD10665,26/10/2025,54.0,Bangalore,Beauty,2,990.55,0,upi,Mobile App,0,No
+ORD10666,27/10/2025,53.0,mumbai,Grocery,4,1328.79,0.3,CreditCard,Mobile App,,No
+ORD10667,28/10/2025,52.0,mumbai,Home,1,308.46,0,,Mobile App,5,NO
+ORD10668,29/10/2025,36.0,Mumbai,,1,694.88,,CreditCard,Website,0,No
+ORD10669,30/10/2025,37.0,mumbai,Beauty,2,543.52,0.3,Debit Card,App,3,NO
+ORD10670,31/10/2025,35.0,Pune,,-1,456.41,0.2,CreditCard,Mobile App,,No
+ORD10671,01/11/2025,64.0,Chennai,electronics,3,621.04,0.3,COD,,4.5,No
+ORD10672,02/11/2025,58.0,mumbai,,3,567.76,0.1,Cash,App,5,NO
+ORD10673,03/11/2025,31.0,Bangalore,Clothing,2,,0.3,UPI,Website,0,No
+ORD10674,04/11/2025,32.0,mumbai,Home,3,1257.8,0.3,Cash,App,4,No
+ORD10675,05/11/2025,48.0,Pune,electronics,1,820.31,10%,Credit Card,Store,,No
+ORD10676,06/11/2025,18.0,N/A,Grocery,3,602.98,,upi,App,,Yes
+ORD10677,07/11/2025,,N/A,Beauty,10,1655.74,0.2,upi,Mobile App,0,No
+ORD10678,08/11/2025,33.0,Hyderabad,Clothing,3,1013.79,10%,Cash,Website,5,NO
+ORD10679,09/11/2025,40.0,Delhi,Home,5,464.03,0.3,Debit Card,Mobile App,2,NO
+ORD10680,10/11/2025,28.0,Chennai,electronics,4,223.38,0.2,Debit Card,,1,NO
+ORD10681,11/11/2025,29.0,Pune ,electronics,1,259.28,0.1,COD,Store,4,No
+ORD10682,12/11/2025,27.0,Hyderabad,Clothing,5,903.79,0.2,COD,,4,No
+ORD10683,13/11/2025,49.0,N/A,Clothng,1,327.11,0,upi,Mobile App,2,Yes
+ORD10684,14/11/2025,33.0,Bangalore,Grocery,3,255.89,10%,COD,Mobile App,5,NO
+ORD10685,15/11/2025,25.0,Pune ,Clothing,1,301.04,0.2,,Mobile App,,No
+ORD10686,16/11/2025,55.0,Hyderabad,electronics,1,315.2,,,website,,No
+ORD10687,17/11/2025,29.0,Pune ,Electronics,2,856.56,0.1,UPI,Store,1,No
+ORD10688,18/11/2025,41.0,Mumbai,Home,2,445.02,0.15,COD,Mobile App,4,No
+ORD10689,19/11/2025,45.0,Delhi,Clothing,2,201.94,0.3,UPI,Mobile App,1,No
+ORD10690,20/11/2025,25.0,Mumbai,Clothng,3,502.79,0.2,COD,,4,
+ORD10691,21/11/2025,45.0,Pune ,electronics,1,569.34,0.3,upi,,5,
+ORD10692,22/11/2025,53.0,Mumbai,Grocery,1,360.84,0.05,upi,Mobile App,4.5,No
+ORD10693,23/11/2025,43.0,Pune,,3,1044.53,0,UPI,Website,4,No
+ORD10694,24/11/2025,25.0,N/A,electronics,2,374.8,10%,Cash,website,4.5,
+ORD10695,25/11/2025,45.0,Pune,Grocery,4,1012.74,0,upi,,4,Yes
+ORD10696,26/11/2025,45.0,mumbai,Clothing,3,726.26,0.05,Cash,Website,,No
+ORD10697,27/11/2025,54.0,Mumbai,Grocery,5,899.91,0.05,Debit Card,website,3,Yes
+ORD10698,28/11/2025,58.0,mumbai,Beauty,3,241.28,10%,,Mobile App,5,No
+ORD10699,29/11/2025,53.0,Bangalore,Beauty,2,525.26,0.2,UPI,Store,2,Yes
+ORD10700,2025-11-30,44.0,Chennai,Beauty,3,476.12,0.05,CreditCard,App,4.5,No
+ORD10701,01/12/2025,34.0,Bangalore,Clothng,1,195.53,0.15,upi,App,2,No
+ORD10702,02/12/2025,26.0,Pune ,Clothng,2,1010.59,0.3,Credit Card,Mobile App,5,No
+ORD10703,03/12/2025,50.0,N/A,Electronics,4,289.65,0.3,Debit Card,,0,
+ORD10704,04/12/2025,37.0,Mumbai,Clothng,2,331.55,0.1,Cash,Website,2,yes
+ORD10705,05/12/2025,30.0,Hyderabad,,4,255.02,,upi,Store,5,NO
+ORD10706,06/12/2025,45.0,Chennai,Clothing,4,777.26,0.05,UPI,website,,No
+ORD10707,07/12/2025,46.0,Delhi,electronics,5,182.75,0.05,CreditCard,Mobile App,2,Yes
+ORD10708,08/12/2025,30.0,Delhi,electronics,10,736.29,0.15,COD,Store,4.5,No
+ORD10709,09/12/2025,63.0,Delhi,Electronics,2,971.59,0,CreditCard,Store,3,NO
+ORD10710,10/12/2025,52.0,Mumbai,Clothng,2,698.66,0,Credit Card,,2,No
+ORD10711,11/12/2025,23.0,Delhi,,3,783.06,0.3,Cash,website,4.5,Yes
+ORD10712,12/12/2025,35.0,Pune,Grocery,2,807.31,0.3,Debit Card,Store,4,No
+ORD10713,13/12/2025,22.0,Chennai,Electronics,3,265.83,0.2,CreditCard,,5,No
+ORD10714,14/12/2025,64.0,Pune,,3,1252.1,10%,UPI,Website,1,No
+ORD10715,15/12/2025,42.0,Chennai,Grocery,3,365.38,,Credit Card,,0,
+ORD10716,16/12/2025,19.0,Pune,,2,75000.0,0.15,UPI,Website,,NO
+ORD10717,17/12/2025,27.0,Chennai,Grocery,1,396.94,10%,upi,Website,1,No
+ORD10718,18/12/2025,47.0,mumbai,Home,2,678.24,10%,COD,Store,,
+ORD10719,19/12/2025,62.0,Mumbai,,1,347.33,0.1,Debit Card,,5,No
+ORD10720,20/12/2025,22.0,Mumbai,electronics,5,514.65,10%,UPI,Website,,No
+ORD10721,21/12/2025,50.0,Delhi,Beauty,2,220.75,0.1,Cash,website,3,Yes
+ORD10722,22/12/2025,18.0,Bangalore,Clothng,1,1050.51,10%,upi,Store,2,No
+ORD10723,23/12/2025,35.0,Delhi,Grocery,1,762.03,0.15,upi,,3,No
+ORD10724,2025-12-24,49.0,Pune ,Home,3,407.5,0.1,Debit Card,,1,NO
+ORD10725,25/12/2025,64.0,Pune,,3,363.24,0,upi,App,0,No
+ORD10726,26/12/2025,28.0,Chennai,electronics,2,749.2,0.1,Cash,,4.5,No
+ORD10727,27/12/2025,38.0,Bangalore,Beauty,1,311.15,0.1,UPI,Store,0,Yes
+ORD10728,28/12/2025,43.0,Pune ,Grocery,2,534.58,0.15,Debit Card,website,5,NO
+ORD10729,29/12/2025,42.0,Mumbai,,2,1048.28,0.15,,,5,No
+ORD10730,30/12/2025,,Mumbai,,3,290.81,0.1,upi,App,3,No
+ORD10731,31/12/2025,44.0,Delhi,Grocery,3,626.15,,upi,Store,4.5,Yes
+ORD10732,01/01/2026,30.0,Pune,Electronics,2,605.0,0.05,Cash,Website,3,Yes
+ORD10733,02/01/2026,50.0,Bangalore,Electronics,1,462.54,,COD,Mobile App,2,No
+ORD10734,03/01/2026,51.0,N/A,electronics,,355.15,0.15,COD,Mobile App,4,No
+ORD10735,04/01/2026,58.0,Pune ,Beauty,2,1085.31,,CreditCard,Website,4.5,No
+ORD10736,05/01/2026,52.0,Pune ,Grocery,3,334.15,,upi,,4,No
+ORD10737,06/01/2026,18.0,Delhi,electronics,1,151.74,0.2,,Mobile App,0,NO
+ORD10738,07/01/2026,38.0,Mumbai,electronics,2,747.21,0.2,UPI,Mobile App,2,No
+ORD10739,08/01/2026,23.0,Delhi,Clothing,1,225.69,0,Debit Card,Website,,No
+ORD10740,09/01/2026,45.0,Chennai,,2,772.57,10%,upi,,,
+ORD10741,10/01/2026,34.0,Bangalore,Clothng,,1173.43,0.1,Credit Card,,4,No
+ORD10742,11/01/2026,22.0,Pune,,2,741.99,0.05,Debit Card,Website,1,NO
+ORD10743,12/01/2026,48.0,mumbai,Electronics,1,988.73,0,CreditCard,,0,No
+ORD10744,13/01/2026,22.0,Hyderabad,Beauty,1,1831.76,0.1,COD,,4,No
+ORD10745,14/01/2026,55.0,Hyderabad,,2,923.71,,,Store,2,No
+ORD10746,15/01/2026,20.0,Delhi,Grocery,1,610.86,0.15,upi,Store,4,
+ORD10747,16/01/2026,40.0,Chennai,electronics,1,1425.2,0.2,Cash,Website,5,No
+ORD10748,17/01/2026,54.0,Bangalore,Grocery,4,1541.64,0.3,Credit Card,website,3,No
+ORD10749,2026-01-18,54.0,N/A,Clothing,2,1555.73,0.05,upi,Mobile App,1,
+ORD10750,19/01/2026,27.0,Hyderabad,Beauty,2,357.85,,,Store,5,No
+ORD10751,20/01/2026,27.0,Bangalore,electronics,5,204.36,0.3,CreditCard,Mobile App,5,No
+ORD10752,21/01/2026,36.0,Pune,Grocery,1,343.93,0.2,UPI,App,2,No
+ORD10753,22/01/2026,34.0,Chennai,Electronics,-1,778.5,,Credit Card,Website,3,No
+ORD10754,23/01/2026,38.0,Mumbai,Clothng,2,546.46,10%,CreditCard,website,3,Yes
+ORD10755,24/01/2026,31.0,Bangalore,Clothing,5,430.86,10%,upi,App,4.5,Yes
+ORD10756,25/01/2026,26.0,Pune,Beauty,3,709.32,0.3,UPI,App,0,No
+ORD10757,26/01/2026,63.0,N/A,Clothing,4,189.42,0.15,Credit Card,,1,No
+ORD10758,27/01/2026,18.0,mumbai,Electronics,,540.1,,UPI,App,0,NO
+ORD10759,28/01/2026,62.0,Mumbai,Beauty,2,1019.43,0.1,UPI,Website,2,NO
+ORD10760,29/01/2026,30.0,mumbai,Clothing,,704.19,,Credit Card,Store,1,No
+ORD10761,30/01/2026,21.0,N/A,Home,2,772.53,0.15,Credit Card,Website,4.5,NO
+ORD10762,31/01/2026,18.0,Pune,Electronics,2,1391.72,,UPI,Store,4,No
+ORD10763,01/02/2026,57.0,Hyderabad,Electronics,2,472.01,0.3,CreditCard,App,5,No
+ORD10764,02/02/2026,49.0,mumbai,Electronics,3,322.3,0.15,,App,1,No
+ORD10765,03/02/2026,51.0,Mumbai,Home,1,1067.62,0.2,COD,website,0,No
+ORD10766,04/02/2026,45.0,Delhi,Home,3,1054.93,0.05,Credit Card,Store,5,No
+ORD10767,05/02/2026,48.0,Pune ,Grocery,3,708.32,0.15,upi,App,2,NO
+ORD10768,06/02/2026,25.0,Bangalore,electronics,4,443.97,,Debit Card,,0,No
+ORD10769,07/02/2026,56.0,Hyderabad,Clothng,5,493.19,0.2,Cash,Mobile App,4,NO
+ORD10770,08/02/2026,43.0,mumbai,Clothing,2,214.88,0.05,UPI,website,2,No
+ORD10771,09/02/2026,51.0,Bangalore,Grocery,2,1015.78,10%,UPI,Website,,No
+ORD10772,10/02/2026,20.0,Delhi,Clothing,1,992.74,0.1,Cash,website,4,Yes
+ORD10773,11/02/2026,29.0,N/A,Clothng,1,210.06,0.3,COD,Mobile App,4,No
+ORD10774,12/02/2026,18.0,Pune ,electronics,1,866.07,,Cash,Store,5,No
+ORD10775,13/02/2026,61.0,Pune,Home,2,640.77,,Credit Card,Website,2,No
+ORD10776,14/02/2026,22.0,Delhi,electronics,1,253.59,10%,Cash,Website,2,No
+ORD10777,15/02/2026,47.0,Delhi,Home,,225.0,0.1,UPI,Store,1,Yes
+ORD10778,16/02/2026,47.0,N/A,Clothng,3,628.14,10%,Cash,website,0,Yes
+ORD10779,17/02/2026,34.0,Chennai,electronics,2,380.5,0,Debit Card,App,,No
+ORD10780,18/02/2026,64.0,N/A,Grocery,3,-250.0,10%,upi,website,2,NO
+ORD10781,19/02/2026,40.0,Chennai,Beauty,1,915.24,0.2,Credit Card,Mobile App,1,No
+ORD10782,20/02/2026,32.0,Chennai,Grocery,2,670.42,0.05,Cash,,,No
+ORD10783,21/02/2026,54.0,Hyderabad,Clothing,3,692.29,,UPI,App,3,NO
+ORD10784,22/02/2026,38.0,Hyderabad,Grocery,2,1170.36,10%,CreditCard,website,3,No
+ORD10785,23/02/2026,31.0,Mumbai,Clothng,2,854.26,,upi,,,No
+ORD10786,24/02/2026,19.0,mumbai,Electronics,,681.88,0.15,Credit Card,,3,NO
+ORD10787,25/02/2026,28.0,mumbai,Clothing,5,260.56,0.1,UPI,Store,4.5,No
+ORD10788,26/02/2026,56.0,Pune,electronics,3,3605.68,10%,COD,Mobile App,2,No
+ORD10789,27/02/2026,55.0,mumbai,Clothing,3,240.55,0.05,Debit Card,Mobile App,4.5,Yes
+ORD10790,28/02/2026,51.0,Hyderabad,Beauty,3,402.16,0.2,,Mobile App,0,
+ORD10791,01/03/2026,55.0,Mumbai,Home,1,168.08,0,COD,App,2,NO
+ORD10792,02/03/2026,51.0,Mumbai,electronics,2,699.4,,,Website,1,No
+ORD10793,03/03/2026,35.0,Chennai,,1,543.6,0.1,Debit Card,App,4.5,Yes
+ORD10794,04/03/2026,47.0,N/A,Clothing,2,810.32,0.3,Cash,website,4.5,No
+ORD10795,05/03/2026,32.0,Pune,electronics,3,159.11,0.05,Credit Card,,0,Yes
+ORD10796,06/03/2026,44.0,Chennai,electronics,1,1015.76,0.3,Cash,,4.5,Yes
+ORD10797,07/03/2026,51.0,N/A,electronics,,291.54,0.05,Debit Card,Website,4,No
+ORD10798,08/03/2026,55.0,mumbai,Home,5,447.26,0.05,Debit Card,website,1,
+ORD10799,09/03/2026,50.0,Chennai,,4,902.82,0.2,Debit Card,Website,3,NO
+ORD10800,10/03/2026,41.0,Bangalore,Clothng,3,583.95,0.2,,,1,No
+ORD10062,02/03/2024,21.0,Pune ,,2,427.25,,COD,App,4.5,Yes
+ORD10800,10/03/2026,41.0,Bangalore,Clothng,3,583.95,0.2,,,1,No
+ORD10748,17/01/2026,54.0,Bangalore,Grocery,4,1541.64,0.3,Credit Card,website,3,No
+ORD10669,30/10/2025,37.0,mumbai,Beauty,2,543.52,0.3,Debit Card,App,3,NO
+ORD10727,27/12/2025,38.0,Bangalore,Beauty,1,311.15,0.1,UPI,Store,0,Yes
+ORD10111,20/04/2024,56.0,N/A,Clothing,5,412.64,10%,Credit Card,Mobile App,,No
+ORD10390,24/01/2025,63.0,Bangalore,Beauty,1,257.0,0.3,UPI,website,2,Yes
+ORD10465,09/04/2025,999.0,Pune,Grocery,5,428.51,0.15,UPI,,5,No
+ORD10035,04/02/2024,200.0,Chennai,Clothng,3,1037.43,0.15,Debit Card,,4.5,NO
+ORD10245,01/09/2024,49.0,Delhi,Grocery,2,374.11,0.1,COD,App,0,NO
+ORD10272,28/09/2024,58.0,Pune,Home,2,783.81,0,Debit Card,Store,4.5,NO
+ORD10284,10/10/2024,55.0,Hyderabad,Electronics,3,543.36,,CreditCard,Store,2,NO
